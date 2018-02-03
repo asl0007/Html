@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title> Table </title>
+  </head>
+  <body>
+    <table border = 1, bordercolor = "Red", cellspacing=10, cellpadding=10  >
+      <caption font-size = "180" ><b>Records</caption>
+      <tr bgcolor = 'green'>
+        <th>Roll No</th>
+        <th>Name</th>
+        <th>Contact No</th>
+      </tr>
+      <tr bgcolor ='blue'>
+        <td>19142</td>
+        <td>Shiraz Ali</td>
+        <td>8587002588</td>
+      </tr>
+      <tr bgcolor='red'>
+        <td>19147</td>
+        <td>Shubham</td>
+        <td>8920166610</td>
+      </tr>
+      <tr bgcolor = 'yellow'>
+        <td>19159</td>
+        <td>Tejaswi</td>
+        <td>8554654448</td>
+      </tr>
+      <tr bgcolor = 'magenta'>
+        <td>19140</td>
+        <td>Sarthak</td>
+        <td>8566234588</td>
+      </tr>
+      <tr bgcolor = 'teal'>
+        <td>19168</td>
+        <td>Vikanshu</td>
+        <td>9658158554</td>
+      </tr>
+      
+  </body>
+</html>
