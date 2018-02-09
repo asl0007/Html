@@ -1,0 +1,52 @@
+<!doctype HTML>
+<html>
+  <head>
+    <title>Special tags</title>
+  </head>
+  <h1>Lists</h1>
+  
+  <b>Unordered lists</b>
+  <ul>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+    <li>Four</li>
+    <li>Five</li>
+  </ul>
+  <ul type = 'square'>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+    <li>Four</li>
+    <li>Five</li>
+  </ul>
+  <ul type = 'circle'>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+    <li>Four</li>
+    <li>Five</li>
+  </ul>
+    <b>Ordered lists</b>
+  <ol>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+    <li>Four</li>
+    <li>Five</li>
+  </ol>
+  <ol type = 'A'>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+    <li>Four</li>
+    <li>Five</li>
+  </ol>
+  <ol type = 'i'>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+    <li>Four</li>
+    <li>Five</li>
+  </ol>
+</html>
