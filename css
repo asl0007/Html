@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>CSS</title>
+</head>
+  <style>
+    h1 {
+    color: white;
+    text-align: center;
+    }
+    h2 {
+    color: white;
+    text-align: left;
+    }
+    h3 {
+    color: white;
+    text-align: right;
+    font-size: 50px;
+    }
+    body{
+      background-color : Red;
+      color : Aqua; text-align : center;
+    }
+  </style>
+  
+<body>
+<h1 > Dronacharya College of Engineering</h1>
+<h2 > Khentawas, Farukhnagar</h2>
+<h3 > Gurgaon</h3>
+  <h4> 122017</h4>
+</body>
+</html>
