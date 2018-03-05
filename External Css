@@ -1,0 +1,41 @@
+<!doctype HTML>
+<html>
+  <head>
+    <title>External CSS</title>
+  </head>
+  <body>
+    <p><b>Students of CSE branch from</b></p>
+    <h1>Dronacharya College of Engineering</h1>
+    <h2>Khentawas, Farukhnagar</h2>
+    <h3>Gurgaon</h3>
+    <ol><b>Student list</b>
+      <li>Shiraz Ali</li>
+      <li>Shubham</li>
+      <li>Tejaswi</li>
+      <li>Vipin Yadav</li>
+      <li>Vikanshu</li>
+      <li>Tushar Pandey</li>
+    </ol>
+    <Button>
+      Submit
+    </Button>
+  </body>
+</html>
+
+
+
+<!doctype CSS>
+body{
+  background-color:cyan;
+}
+p{
+  text-align:center;
+  text-size:48px;
+}
+h1{
+  font-type:Times New Roman;
+  
+}
+ol{
+  color:Grey;
+}
