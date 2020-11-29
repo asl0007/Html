@@ -17,7 +17,7 @@ li{
 
 }
 li:nth-child(2){
-    background: url(img/index.png) no-repeat;
+    background: url(../index.png) no-repeat;
     background-size: 35px;
     margin-left: 20px;
 
